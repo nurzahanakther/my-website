@@ -1,0 +1,28 @@
+h1{
+			color: blue;
+			background-color: gray;
+			border: 5px solid yellow;
+			border-radius: 2px
+			margin:10px 20px 30px 40px;
+			padding: 10px 20px 30px 40px;
+
+				}	h2{
+			color: blue;
+			background-color: gray;
+			border: 5px solid yellow;
+			border-radius: 5px
+
+		}
+		h3{
+			color: blue;
+			background-color: gray;
+			border: 5px solid yellow
+		}
+		p{
+			color: white;
+			background-color: black;
+			border: 5px solid yellow;
+		}
+
+
+
